@@ -1,0 +1,18 @@
+CLIENTE
+Es quien hace una solicitud al servidor.
+
+SERVIDOR
+Es quien recibe solicitudes y responde información.
+
+HTTP
+Es el protocolo que permite la comunicación entre cliente y servidor.
+
+GET
+Método para solicitar información.
+
+POST
+Método para enviar información.
+
+NODE.JS
+Entorno que permite ejecutar JavaScript en el servidor.
+

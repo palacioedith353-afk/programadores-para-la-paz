@@ -1,0 +1,6 @@
+COMANDO: npm start
+
+Este comando ejecuta el servidor configurado en package.json.
+
+Fue utilizado para iniciar el servidor Node.js y permitir pruebas con HTTP GET y POST.
+
