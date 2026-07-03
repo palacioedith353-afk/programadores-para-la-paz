@@ -1,0 +1,8 @@
+Evento:
+Se registra un nuevo reporte.
+
+Mensaje:
+"Nuevo reporte recibido. Revisar el sistema."
+
+Información que no debe enviarse:
+Nombres completos, documentos de identidad, direcciones, teléfonos, contraseñas ni otros datos sensibles.
