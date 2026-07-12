@@ -1,0 +1,12 @@
+Evento: nueva causa registrada o nuevo apoyo ciudadano.
+
+Mensaje enviado:
+"Nueva causa registrada en la plataforma Petición en 3 Clics."
+"La causa ha recibido un nuevo apoyo ciudadano."
+
+Información que no debe enviarse:
+- Cédulas.
+- Teléfonos.
+- Direcciones.
+- Correos electrónicos personales.
+- Comentarios sensibles o información privada.

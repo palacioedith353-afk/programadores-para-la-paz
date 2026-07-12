@@ -1,0 +1,15 @@
+Entidad: Causa
+id
+titulo
+descripcion
+fecha
+
+La entidad Causa sirve para almacenar la información principal de cada solicitud comunitaria.
+
+Entidad: Apoyo
+id
+causa_id
+nombre
+fecha
+
+La entidad Apoyo sirve para registrar y contabilizar las personas que respaldan una causa comunitaria.
